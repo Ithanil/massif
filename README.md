@@ -1,7 +1,7 @@
-# MyBoSS
-Many Body Simulation Software Module Collection
+# massif
+Modules for Atomistic Simulation Software in Fortran
 
-This projects is meant to be a simple collection of Fortran modules that provide basic functionality for various kinds of many body system simulations (e.g. Molecular Dynamics or Metropolis Monte Carlo).
+This project is meant to be a simple collection of Modern Fortran modules that provide basic functionality for various kinds of atomistic many body system simulations (e.g. Molecular Dynamics or Metropolis Monte Carlo).
 
 Currently it contains the following modules:
 
